@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fscholtesdowd.github.io/firewood-calculator/sitemap.xml
